@@ -20,13 +20,13 @@
 
 - [Django_Basic](/Django/Django_Basic.md)
 
-- [Multiple Apps](/Django/Multiple Apps.md)
+- [Multiple Apps](/Django/Multiple_Apps.md)
 
 - [Model](/Django/Model.md)
 
-- [Variable Routing](/Django/Variable Routing.md)
+- [Variable Routing](/Django/Variable_Routing.md)
 
-- [Static Files](/Django/Static Files.md)
+- [Static Files](/Django/Static_Files.md)
 
   
 
@@ -46,11 +46,11 @@
 
 ### Python
 
-- [Control of Flow](/Python/Control of Flow.md)
+- [Control of Flow](/Python/Control_of_Flow.md)
 - [Function](/Python/Function.md)
 - [Scope](/Python/Scope.md)
 - [Method](/Python/Method.md)
-- [Module and Error](/Python/Module and Error.md)
+- [Module and Error](/Python/Module_and_Error.md)
 - [OOP](/Python/OOP.md)
 
 
@@ -67,22 +67,22 @@
   - [CSS_Basic](/CSS/CSS_Basic.md)
   - [CSS Layout](/CSS/CSS_Layout.md)
   - [Flex](/CSS/Flex.md)
-  - [Grid System](/CSS/Grid System.md)
+  - [Grid System](/CSS/Grid_System.md)
   - [Bootstrap](/CSS/Bootstrap.md)
-  - [FE Flow](/CSS/FE Flow.md)
+  - [FE Flow](/CSS/FE_Flow.md)
 - Javascript
   - [Javascript_Basic](/Javascript/Javascript_Basic.md)
-  - [JS Function](/Javascript/JS Function.md)
-  - [JS Advanced](/Javascript/JS Advanced.md)
-  - [JS Advanced_2](/Javascript/JS Advanced_2.md)
+  - [JS Function](/Javascript/JS_Function.md)
+  - [JS Advanced](/Javascript/JS_Advanced.md)
+  - [JS Advanced_2](/Javascript/JS_Advanced_2.md)
   - [UI/UX](/Javascript/UI/UX.md)
-  - [Interactive Web](/Javascript/Interactive Web.md)
+  - [Interactive Web](/Javascript/Interactive_Web.md)
   - [Refactoring](/Javascript/Refactoring.md)
-- +
-  - [Flask_Basic](/+/Flask_Basic.md)
-  - [Chatbot Project](/+/Chatbot Project.md)
-  - [Encoding](/+/Encoding.md)
-  - [PJT Review](/+/PJT Review.md)
+- plus
+  - [Flask_Basic](/plus/Flask_Basic.md)
+  - [Chatbot Project](/plus/Chatbot_Project.md)
+  - [Encoding](/plus/Encoding.md)
+  - [PJT Review](/plus/PJT_Review.md)
 
 
 
@@ -93,7 +93,7 @@
 ### ML
 
 - [ML_Keywords](/ML/ML_Keywords.md)
-- [Cross Entropy](/ML/Cross Entropy.md)
+- [Cross Entropy](/ML/Cross_Entropy.md)
 
 
 
@@ -107,29 +107,29 @@
   - [Algorithm_Basic](/Algorithm/Intro/Algorithm_Basic.md)
   - [Optimization](/Algorithm/Intro/Optimization.ipynb)
 - Datastructure
-  - [Data Structure](/Algorithm/Datastructure/Data Structure.ipynb)
-  - [2D Array](/Algorithm/Datastructure/2D Array.md)
+  - [Data Structure](/Algorithm/Datastructure/Data_Structure.ipynb)
+  - [2D Array](/Algorithm/Datastructure/2D_Array.md)
   - [Stack](/Algorithm/Datastructure/Stack.md)
   - [Queue](/Algorithm/Datastructure/Queue.md)
 - Divide and Conquer
-  - [Divide and Conquer](/Algorithm/Divide and Conquer/Divide and Conquer.ipynb)
+  - [Divide and Conquer](/Algorithm/Divide_and_Conquer/Divide_and_Conquer.ipynb)
 - DP
   - [DP](/Algorithm/DP/DP.ipynb)
   - [DP_2](/Algorithm/DP/DP_2.ipynb)
 - Recursive Function
-  - [Recursive Function](/Algorithm/Recursive Function/Recursive Function.md)
+  - [Recursive Function](/Algorithm/Recursive_Function/Recursive_Function.md)
 - Simulation
   - [Simulation_Basic](/Algorithm/Simulation/Simulation_Basic.md)
   - [Search](/Algorithm/Simulation/Search.md)
   - [Graph](/Algorithm/Simulation/Graph.md)
   - [DFS](/Algorithm/Simulation/DFS.md)
-  - [DFS BFS](/Algorithm/Simulation/DFS BFS.ipynb)
-  - [DFS BFS_2](/Algorithm/Simulation/DFS BFS_2.ipynb)
+  - [DFS BFS](/Algorithm/Simulation/DFS_BFS.ipynb)
+  - [DFS BFS_2](/Algorithm/Simulation/DFS_BFS_2.ipynb)
   - [Backtracking](/Algorithm/Simulation/Backtracking.md)
 - Sorting
   - [Sorting](/Algorithm/Sorting/Soring.md)
   - [Minmax](/Algorithm/Sorting/Minmax.md)
-  - [Monotonically Increasing](/Algorithm/Sorting/Monotonically Increasing.md)
+  - [Monotonically Increasing](/Algorithm/Sorting/Monotonically_Increasing.md)
 - String
   - [String](/Algorithm/String/String.md)
   - [String_2](/Algorithm/String/String_2.md)
